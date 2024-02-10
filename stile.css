@@ -1,0 +1,131 @@
+
+body {
+	height: 1200px;
+}
+.header{
+	background-color: rgba(255,255,255,.2);
+}
+.header ul{
+	text-align: left;
+}
+.header ul li{
+	list-style: none;
+	display: inline-block;
+}
+.header ul li a{
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: 	#212121;
+	font-size: 14px;
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 2px;
+	font-weight: 600;
+	padding: 45px;
+}
+.header ul li a:hover{
+	color: 	#008248;
+}
+.topo {
+	align-content: center;
+	width: 51px;
+	height: 51px;
+	top: 24px;
+	left: 40px;
+}
+.star {
+	position: center;
+	width: 150px;
+	height: 70px;
+	top: 24px;
+	left: 900px;
+}
+
+
+.image {
+	align-content: center;	
+	top: 100px;
+}
+.um {
+	background-color: rgba(212,233,226);
+}
+.um ul{
+
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	letter-spacing: 2px;
+	font-weight:600;
+	padding: 45px;
+}
+.um ul p{
+	color: #1E3932;
+}
+.dois {
+	background-color: rgba(212,233,226);
+	display: flex;
+	padding: 10px;
+
+}
+.dois ul{
+	color: #1E3932;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	letter-spacing: 2px;
+	font-weight:600;
+	
+}
+.meio {
+	background-color: rgba(255,250,250);
+}
+.meio p{
+	color: #FFFAFA;
+	text-align: center;
+	font-size: 6px;
+}
+
+.tres {
+	background-color: rgba(212,233,226);
+	display: flex;
+	padding: 10px;
+}
+.tres ul{
+	color: #1E3932;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	letter-spacing: 2px;
+	font-weight:600;
+	padding: 45px;
+}
+.quatro {
+	background-color: rgba(212,233,226);
+	display: flex;
+	padding: 10px;
+}
+.quatro ul{
+	color: #1E3932;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	letter-spacing: 2px;
+	font-weight:600;
+	padding: 45px;
+}
+.cinco {
+	background-color: rgba(212,233,226);
+	display: flex;
+	padding: 10px;
+}
+.cinco ul{
+	color: #1E3932;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	letter-spacing: 2px;
+	font-weight:600;
+	padding: 45px;
+}
+
+
